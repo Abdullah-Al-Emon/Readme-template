@@ -5,7 +5,7 @@
 Abdullah Al Emon  
 This is second line
 
-## <!-- this is horizontal rul(---) -->
+<!-- this is horizontal rul(---) -->
 
 <!-- # is the heading tag -->
 
